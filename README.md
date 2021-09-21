@@ -5,12 +5,3 @@
 
 ### Pinned Repos
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wlmac&repo=metropolis&theme=github_dark)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyflaren&repo=skyflaren.github.io&theme=github_dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dulldesk&repo=covid-cashier&theme=github_dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=MALSuggest&theme=github_dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=Sorting-Visualizer&theme=github_dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=Jeopardy&theme=github_dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=ABCwordsearch&theme=github_dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=RecursiveFractalTree&theme=github_dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=YBSLOrganizer&theme=github_dark)
