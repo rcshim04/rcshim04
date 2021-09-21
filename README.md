@@ -3,5 +3,7 @@
 
 ![rcshim04's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcshim04&theme=github_dark&layout=compact)
 
-### Pinned Repos
+### Current Projects
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wlmac&repo=metropolis&theme=github_dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=MALSuggest&theme=github_dark)
