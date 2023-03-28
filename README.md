@@ -7,3 +7,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wlmac&repo=metropolis&theme=github_dark)](https://github.com/wlmac/metropolis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=MALSuggest&theme=github_dark)](https://github.com/rcshim04/MALSuggest)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcshim04&repo=personal-website&theme=github_dark)](https://github.com/rcshim04/personal-website)
